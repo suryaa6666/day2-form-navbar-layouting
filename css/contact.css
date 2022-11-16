@@ -8,9 +8,9 @@
 }
 
 .text-input {
-    background-color: grey;
+    background-color: #dfdede;
     width: 100%;
-    color: white;
+    color: black;
     padding: 5px;
     border-radius: 10px;
 }
